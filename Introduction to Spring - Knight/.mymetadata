@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Introduction to Spring - Knight"
+  id="myeclipse.1163106131593"
+  context-root="/knight"
+  j2ee-spec="1.4"
+  archive="Introduction to Spring - Knight.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
